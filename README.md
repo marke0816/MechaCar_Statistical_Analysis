@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![](data/d1.png)
+![](images/d1.png)
 
 The strongest contributor of non-random variance seems to be the vehicle length with a p-value of 2.60e-12.  The other strong contributor of non-random variance is the ground clearance with a p-value of 5.21e-8.
 
